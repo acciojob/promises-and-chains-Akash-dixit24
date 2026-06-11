@@ -1,5 +1,5 @@
 //your JS code here. If required.
-const form = document.getElementById("vote-form");
+const form = document.getElementById("myForm");
 
 form.addEventListener("submit", function (e) {
     e.preventDefault();
